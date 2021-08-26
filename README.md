@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ulugbekistamov
+- 🧑‍💻 I'm backend developer
+- 🇺🇿 I'm from Uzbekistan 
