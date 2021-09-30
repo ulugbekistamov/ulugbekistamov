@@ -1,9 +1,29 @@
-👋 Hi, I’m @ulugbekistamov
+Hi, I'm Ulug’bek 👋
 
-🧑‍💻 I'm fullstack developer
+🔥 Currently I'm learning JavaScript and Golang
+Languages
+Python JavaScript
 
-🇺🇿 I'm from Uzbekistan
+Frameworks
+Django Restapi Angular
 
-I know Html, Css, Js, Python(Django and Rest framework)
+Databases
+Postgres SQLite
 
-I know Graphic Design too. 
+Others
+Bootstrap SASS Uikit Css
+
+IDEs/Editors & Tools 🧰
+Visual Studio Code PyCharm Sublime Text
+
+Postman Git Swagger Firefox
+
+Hostings
+Heroku Netlify 
+
+Operating systems that I'm using 😁
+
+Windows 
+
+Instagram: @brainbox_8 
+Telegram: @brainbox_8 
