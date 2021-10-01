@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ulugbekistamov" alt="ulugbekistamov" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, Java, js**
+- 🌱 I’m currently learning **Golang, Java, js, frameworks**
 
 - 📝 I regularly write articles on [https://t.me/istamov_blog](https://t.me/istamov_blog)
 
-- 💬 Ask me about **Backend and graphic design**
+- 💬 Ask me **Backend, Frontend and Graphic design**
 
 - 📫 How to reach me **ulugbekistamov11@gmail.com**
 
