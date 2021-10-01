@@ -12,11 +12,11 @@
 
 - 💬 Ask me about **Backend and graphic design**
 
-- 📫 How to reach me **ulugbekistamov12@gmail.com**
+- 📫 How to reach me **ulugbekistamov11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/brainbox_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brainbox_8" height="30" width="40" /></a>
+<a href="https://codepen.io/050505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="brainbox_8" height="30" width="40" /></a>
 <a href="https://instagram.com/brainbox_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brainbox_8" height="30" width="40" /></a>
 </p>
 
