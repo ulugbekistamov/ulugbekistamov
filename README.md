@@ -52,7 +52,7 @@
 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-<img src="https://techz.io/wp-content/uploads/2019/05/linode.png" width="70px">
+
 
 **Operating systems that I'm using and used 😁**
 
