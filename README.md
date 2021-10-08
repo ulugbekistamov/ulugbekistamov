@@ -63,5 +63,5 @@
 
 #### **Contact**
 ![Telegram](https://img.shields.io/badge/@brainbox_8-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![Instagram](https://img.shields.io/badge/@brainbox_x-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Instagram](https://img.shields.io/badge/@brainbox_8-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/ulugbekistamov11-D14836?style=for-the-badge&logo=gmail&logoColor=white)
