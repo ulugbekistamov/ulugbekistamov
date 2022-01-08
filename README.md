@@ -66,3 +66,12 @@
 ![Telegram](https://img.shields.io/badge/@brainbox_8-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Instagram](https://img.shields.io/badge/@brainbox_8-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![Gmail](https://img.shields.io/badge/ulugbekistamov11-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ulugbekistamov&show_icons=true&locale=en&layout=compact" alt="ulugbekistamov" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ulugbekistamov&show_icons=true&locale=en" alt="ulugbekistamov" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ulugbekistamov&" alt="ulugbekistamov" /></p>
+
