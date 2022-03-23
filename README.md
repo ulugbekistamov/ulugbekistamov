@@ -2,7 +2,7 @@
 
 
 - **🔥 Currently I'm learning golang and java**
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=your-github-ulugbekistamov&style=flat-square&color=blue" alt=""/>
 
 #### **Languages**
 
