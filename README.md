@@ -1,7 +1,8 @@
-### Hi, I'm Ulug'bek 👋
+### Hi, I'm Ulug'bek 👋. I am Startupper, Developer, Graphic designer, Video maker and Blogger
 
 
 - **🔥 Currently I'm learning golang and java**
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 
 #### **Languages**
 
